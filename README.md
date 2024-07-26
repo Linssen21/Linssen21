@@ -2,11 +2,11 @@
 Just a guy who enjoys programming.
 
 ## 💫 About Me:
-🌍 I'm based in the Philippines
-👨‍💻 Frontend and Backend Developer specialize in Lamp and MERN stack
-🧠 I’m currently learning Typescript, Laravel and NextJS
-🏗️ Loves learning Software Architecture and Design Patterns
-📚 Continuous learner
+-🌍 I'm based in the Philippines
+-👨‍💻 Frontend and Backend Developer specialize in Lamp and MERN stack
+-🧠 I’m currently learning Typescript, Laravel and NextJS
+-🏗️ Loves learning Software Architecture and Design Patterns
+-📚 Continuous learner
 
 ## 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
